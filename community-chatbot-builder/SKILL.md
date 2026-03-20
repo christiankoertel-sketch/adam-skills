@@ -12,7 +12,7 @@ description: >
 
 # Community Chatbot Builder
 
-Build production-ready AI chatbots that know a community's content and speak in its voice. This skill encodes a proven 7-phase framework battle-tested on real communities with thousands of members.
+Build production-ready AI chatbots that know a community's content and speak in its voice. This skill encodes a proven 7-phase framework battle-tested on real communities.
 
 ## Why This Approach Works
 

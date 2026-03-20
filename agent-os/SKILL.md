@@ -13,7 +13,7 @@ description: >
 
 # Agent Operating System
 
-Build production-grade autonomous AI agents that run reliably without constant human babysitting. This skill encodes battle-tested patterns from an agent system that has run 100+ daily execution windows across 25+ scheduled tasks for months — including the hard-won lessons from outages, zombie processes, and silent failures.
+Build production-grade autonomous AI agents that run reliably without constant human babysitting. This skill encodes battle-tested patterns from an agent system that has run hundreds of daily execution windows across multiple scheduled tasks for months — including the hard-won lessons from outages, zombie processes, and silent failures.
 
 ## The Core Problem This Solves
 
